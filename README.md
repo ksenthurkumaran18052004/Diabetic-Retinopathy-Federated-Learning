@@ -18,18 +18,7 @@ The goal is to build a **privacy-preserving, scalable, and robust** DR detection
 
 ---
 
-## 📂 Repository Structure
-.
-├── student_model_2.ipynb # Student model training notebook
-├── teacher model.ipynb # Teacher model training notebook
-├── student_model_mobilenetv2.h5 # Saved student model weights
-├── teacher_model_mobilenetv2.h5 # Saved teacher model weights
-└── README.md # Project documentation
 
-yaml
-Copy code
-
----
 
 ## 🛠️ Tech Stack
 - **Python 3.x**
